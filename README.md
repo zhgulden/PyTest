@@ -2,4 +2,4 @@
 
 ### Установка пакета:
 
-`pip3 install -U pytest --user'
+`pip3 install -U pytest --user`
